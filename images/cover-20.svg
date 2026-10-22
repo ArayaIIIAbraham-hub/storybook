@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#ff00cc"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#g)"/>
+<rect x="14" y="14" width="372" height="572" fill="none" stroke="#fff" stroke-opacity="0.6" stroke-width="3"/>
+<text x="200" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="4" fill="#fff" fill-opacity="0.9">CYBERPUNK</text>
+<text x="200" y="230" text-anchor="middle" font-size="110">🤖</text>
+<text x="200" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="#fff">Neon Ghost</text><text x="200" y="376" text-anchor="middle" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="#fff">Protocol</text>
+<text x="200" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#fff" fill-opacity="0.95">Zed Okafor</text>
+</svg>

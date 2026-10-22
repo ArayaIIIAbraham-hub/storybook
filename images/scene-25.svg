@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+<defs><linearGradient id="g" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bdc3c7"/><stop offset="1" stop-color="#2c3e50"/></linearGradient></defs>
+<rect width="600" height="400" fill="url(#g)"/>
+<circle cx="500" cy="80" r="50" fill="#fff" fill-opacity="0.15"/>
+<circle cx="90" cy="320" r="80" fill="#fff" fill-opacity="0.1"/>
+<text x="300" y="235" text-anchor="middle" font-size="150">💎</text>
+<text x="80" y="90" font-size="40" fill-opacity="0.8">💎</text>
+<text x="500" y="340" font-size="34" fill-opacity="0.8">💎</text>
+<text x="300" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#fff">Scene from "The Vanishing Vault"</text>
+</svg>
